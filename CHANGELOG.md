@@ -2,27 +2,28 @@
 
 All notable changes to this project will be documented in this file, in reverse chronological order by release.
 
-## 1.4.0 - TBD
+## 1.4.0 - 2024-03-30
 
-### Added
 
-- Nothing.
+-----
 
-### Changed
+### Release Notes for [1.4.0](https://github.com/nucleos/NucleosSeoBundle/milestone/12)
 
-- Nothing.
+Feature release (minor)
 
-### Deprecated
+### 1.4.0
 
-- Nothing.
+- Total issues resolved: **0**
+- Total pull requests resolved: **2**
+- Total contributors: **2**
 
-### Removed
+#### Bug
 
-- Nothing.
+ - [27: Remove spaces around breadcrumb items](https://github.com/nucleos/NucleosSeoBundle/pull/27) thanks to @core23
 
-### Fixed
+#### dependency
 
-- Nothing.
+ - [26: Update dependency psalm/plugin-phpunit to ^0.19.0](https://github.com/nucleos/NucleosSeoBundle/pull/26) thanks to @renovate[bot]
 
 ## 1.3.0 - 2023-12-05
 
